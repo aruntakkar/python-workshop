@@ -36,7 +36,7 @@ contents = fobj.read()
 print "After First Read", contents
 contents = fobj.read()
 print "After Second Read", contents // return ''
-f.close()
+fobj.close()
 
 ---
 
