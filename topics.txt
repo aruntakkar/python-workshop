@@ -1,3 +1,19 @@
+Inbuilt Functions
+-----------------
+
+min
+max
+type
+sum
+len
+raw_input
+help
+pow
+
+---
+
+#TODO - retry the raw_input
+
 File Handling
 -------------
 
